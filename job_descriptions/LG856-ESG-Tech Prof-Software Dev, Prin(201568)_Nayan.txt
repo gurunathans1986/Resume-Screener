@@ -1,0 +1,61 @@
+Sr Software Development Engineer / Lead (C++/Fortran)
+Date:  Aug 8, 2025
+Location:  Bengaluru, KA, IN, 560103
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Duties
+Under broad direction, designs, codes, tests, trouble-shoots and documents engineering systems applications. Develops test strategies used in the automated regression testing of these systems. Follows secure coding practices, performs triaging of security issues, and implements fixes to deliver secure applications. Familiar with common software vulnerabilities and leading practices to mitigate. Works on large scale, complex projects. Proactively identifies areas for improvement within the software system and development processes and proposes new solutions. Develops assignments and schedules. Job tasks, correctly performed, impact indirectly on cost containment, efficiency, profitability or operations. Requires completion of an undergraduate degree in Computer Science or similar discipline, and a minimum of 7 years of related experience, including software development experience.
+
+Qualifications
+Key Responsibilities
+
+Lead the design, development, testing, and documentation of scalable software systems, ensuring alignment with engineering best practices.
+Architect and implement components that integrate seamlessly within a broader ecosystem using REST APIs, database queries, and library calls.
+Apply system design patterns to build efficient, maintainable, and high-performing solutions.
+Guide technical research and development efforts, mentor team members, and ensure timely delivery of high-quality software.
+Stay current with emerging technologies and contribute to continuous improvement across the development lifecycle.
+
+Qualifications
+
+Bachelor’s or Master’s in Computer Science, Engineering, or related field.
+7+ years of software development experience, with proven leadership or readiness to take on a team lead role.
+Strong background in project design, execution, and data analysis.
+Proven technical abilities; relevant intern/co-op experience is a plus.
+Excellent communication, analytical, and decision-making skills.
+Oil & Gas domain experience is a plus.
+
+Technical Expertise
+
+Proficient in C++, C#, JSON, gRPC; experience with MFC, Visual Studio, XAML.
+Familiar with version control systems like GitLab.
+Strong database knowledge: SQL Server, Oracle.
+Experience with Java is a plus.
+Solid understanding of software development fundamentals and object-oriented design principles.
+Hands-on experience with Kubernetes and containerized environments.
+Halliburton is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation.
+
+ 
+
+Location
+
+4th Floor, Gardenia 2D, Bengaluru, , 560103,
+
+ 
+
+Job Details
+
+Requisition Number: 201568  
+Experience Level: Experienced Hire 
+Job Family: Engineering/Science/Technology 
+Product Service Line: Landmark Software & Services   
+Full Time / Part Time: Full Time
+
+Additional Locations for this position: 
+
+ 
+
+Compensation Information
+Compensation is competitive and commensurate with experience.
+
+
+Job Segment: Testing, Developer, Computer Science, Data Analyst, Database, Technology, Data

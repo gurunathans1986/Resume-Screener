@@ -1,0 +1,77 @@
+Petroleum Engineer (QA Specialist)
+Date:  Aug 8, 2025
+Location:  Bengaluru, KA, IN, 560103
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Duties
+Under broad direction, mentors a team of Software Testers that can be comprised of Manual and Automated Test Engineers. Comprehensive understanding of all elements of a successful software development program. Including but not limited to Code Inspections, Manual Testing, Automated Testing, Functional Requirements, Design, Usability, Test plans and Results and Defect Management. Assists with secure architecture design reviews and supports preparing applications for security testing. Ensures security vulnerabilities have been mitigated. This role is an integral part of the planning of future releases including estimating efforts required in Testing and Documentation and advising on product improvements based on experience gained from previous releases and customer feedback. Usually works on projects of moderate to complex scope. Requires completion of an undergraduate degree in Computer Science, Geo-science, Petroleum Engineering or similar discipline, and 4+ years of related experience, including software testing and/or development experience. Completion of a masters degree is preferred.
+
+ 
+
+ 
+
+Qualifications & Experience
+Key Responsibilities
+
+ 
+
+Lead quality assurance efforts across upstream Oil & Gas applications, ensuring robust testing coverage
+and high software reliability.
+Design, develop, and execute effective test cases for various testing types including functional,
+integration, performance, regression, and UAT.
+Collaborate with cross-functional teams including developers and Product Owners to align testing
+strategies with business goals.
+Manage defect tracking and resolution processes, ensuring timely and accurate reporting.
+Contribute to test automation initiatives and framework enhancements to improve efficiency and
+scalability.
+ 
+
+Qualifications
+
+ 
+
+Bachelor’s or Master’s degree in Petroleum, Geophysics, Geology, or Chemical Engineering with a GPA
+≥ 7.5.
+Minimum 4 years of QA experience, preferably in upstream Oil & Gas software environments.
+Solid understanding of drilling and completions workflows such as well construction, fluids management,
+and performance monitoring.
+ISTQB Foundation Level Certification is preferred but not mandatory.
+ 
+
+Technical Expertise
+
+ 
+
+Proficient in software testing methodologies: Smoke, Functional, Integration, Performance, Regression,
+and UAT.
+Hands-on experience with Agile methodologies and ALM tools like Azure DevOps/TFS or JIRA.
+Familiarity with engineering software such as WellCat, WellPlan, and Compass is a plus.
+Working knowledge of automation tools and test framework design.
+Strong communication and documentation skills with a collaborative mindset.
+Halliburton is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation.
+
+ 
+
+Location
+
+4th Floor, Gardenia 2D, Bengaluru, , 560103,
+
+ 
+
+Job Details
+
+Requisition Number: 201567  
+Experience Level: Experienced Hire 
+Job Family: Engineering/Science/Technology 
+Product Service Line: Landmark Software & Services   
+Full Time / Part Time: Full Time
+
+Additional Locations for this position: 
+
+ 
+
+Compensation Information
+Compensation is competitive and commensurate with experience.
+
+
+Job Segment: QA, Quality Assurance, Testing, Computer Science, Technology, Quality

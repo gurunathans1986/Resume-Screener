@@ -1,0 +1,12 @@
+numpy 
+pandas
+google-generativeai
+google-genai
+openpyxl
+matplotlib
+PyPDF2
+sentence-transformers
+scikit-learn
+python-dotenv
+langchain
+docx2txt

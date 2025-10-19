@@ -1,0 +1,69 @@
+LG828 - Release Management
+Date:  Aug 14, 2025
+Location:  Bengaluru, KA, IN, 560103
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Duties
+Under general direction, this role applies release management methodologies to the management of source code, building the source code and then packaging the build artifacts into installers for delivery to the customer for Halliburton&aposs Landmark Software & Services group. Assists with deploying and maintaining secure applications. Ensures applications have undergone adequate security testing. This role usually involves projects of moderate scope and complexity and requires a high level of interaction with members of the product delivery teams (i.e. developers, QA, documentation etc.). Requires an undergraduate degree in Computer Science or related field and 3 years of Release Management or software development experience.
+Qualifications & Experience
+• BS in Computer Science or related Engineering discipline
+
+• 3+ years of experience in Software development of complex applications
+
+• Experience with Cloud and SaaS Development: Azure and/or AWS, Docker, Kubernetes, etc. 
+
+• Knowledge of AWS Cloud. Certified professionals are preferred.
+
+o Network (VPC. Subnet, TGW, Peering)
+
+o Compute (EC2, workspace, IAM, Security (Policies, Roles etc.)
+
+• Linux administrator
+
+• DevOps Knowledge
+
+• Release Management
+
+o Git
+
+o Artifactory
+
+o CI/CD Pipelines
+
+• Identity
+
+o SAML/OpenID Connect
+
+o Active Directory
+
+Terraform and ansible scripting
+
+Telemetry tools like new relics, splint, or dynatrace 
+
+Halliburton is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation.
+
+ 
+
+Location
+
+4th Floor, Gardenia 2D, Bengaluru, , 560103,
+
+ 
+
+Job Details
+
+Requisition Number: 201528  
+Experience Level: Experienced Hire 
+Job Family: Engineering/Science/Technology 
+Product Service Line: Landmark Software & Services   
+Full Time / Part Time: Full Time
+
+Additional Locations for this position: 
+
+ 
+
+Compensation Information
+Compensation is competitive and commensurate with experience.
+
+
+Job Segment: Cloud, Testing, Computer Science, QA, Quality Assurance, Technology, Quality

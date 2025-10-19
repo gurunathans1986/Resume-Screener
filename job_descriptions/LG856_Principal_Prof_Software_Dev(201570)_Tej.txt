@@ -1,0 +1,58 @@
+Sr Software Development Engineer / Lead (Fullstack)
+Date:  Aug 8, 2025
+Location:  Bengaluru, KA, IN, 560103
+We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry.
+
+Job Duties
+Under broad direction, designs, codes, tests, trouble-shoots and documents engineering systems applications. Develops test strategies used in the automated regression testing of these systems. Follows secure coding practices, performs triaging of security issues, and implements fixes to deliver secure applications. Familiar with common software vulnerabilities and leading practices to mitigate. Works on large scale, complex projects. Proactively identifies areas for improvement within the software system and development processes and proposes new solutions. Develops assignments and schedules. Job tasks, correctly performed, impact indirectly on cost containment, efficiency, profitability or operations. Requires completion of an undergraduate degree in Computer Science or similar discipline, and a minimum of 7 years of related experience, including software development experience.
+
+Qualifications
+Key Responsibilities
+
+Build scalable, performant, and cost-effective full stack solutions using Angular, Node.js, and cloud-native technologies.
+Develop and maintain responsive web applications and backend services with RESTful APIs and microservices.
+Ensure applications are secure, cloud-ready (Azure/AWS), and optimized for performance.
+Implement automated testing and contribute to CI/CD pipelines using Docker, Kubernetes, GitLab, and Jenkins.
+Collaborate with cross-functional teams and follow Agile practices.
+Mentor junior developers and support their growth while transitioning into a team lead role. Provide technical guidance to the Product Owner to align development with product goals.
+Stay updated with emerging technologies and best practices.
+
+Qualifications
+
+7+ years of experience in full stack or front-end development.
+3+ years of hands-on experience with Angular (v12+), TypeScript, HTML5, CSS/SASS.
+Strong backend skills in Node.js (required); C# or Python preferred.
+Experience with containerization (Docker) and orchestration (Kubernetes).
+Familiarity with microservices, API integration, and system design.
+Knowledge of SQL and NoSQL databases (PostgreSQL, SQL Server, MongoDB).
+Exposure to Agile methodologies and cloud platforms (Azure/AWS).
+Bachelor’s or Master’s degree in Computer Science or related field.
+Strong communication, problem-solving, and mentoring abilities.
+Oil & Gas domain experience is a plus.
+
+Technical Expertise
+
+Frontend: Angular (v12–16+), TypeScript, HTML5, CSS/SASS.
+Backend: Node.js (required), C# or Python (preferred), Express, RESTful APIs.
+Testing: JEST, Jasmine, Cypress, Protractor.
+DevOps: GitLab, Jenkins, Docker, Kubernetes, Maven, Ansible.
+Cloud: Azure, AWS.
+Databases: PostgreSQL, SQL Server, MongoDB, Cassandra.
+
+Halliburton is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation.
+
+ 
+
+Location
+
+4th Floor, Gardenia 2D, Bengaluru, , 560103,
+
+ 
+
+Job Details
+
+Requisition Number: 201570  
+Experience Level: Experienced Hire 
+Job Family: Engineering/Science/Technology 
+Product Service Line: Landmark Software & Services   
+Full Time / Part Time: Full Time
